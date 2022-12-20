@@ -1,7 +1,7 @@
 ### Hi there , my name Kateryna Churuta👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
 ###:hammer_and_wrench: Languages and Tools :
 <div>
