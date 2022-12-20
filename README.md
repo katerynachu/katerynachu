@@ -1,13 +1,14 @@
-### Hi there , my name Kateryna Churuta👋
+### Hi there , my name Kateryna Churuta :woman_technologist: I’m junior front end developer👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
-:woman_technologist: About Me :
-- :telescope: I’m junior front end developer
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/kateryna-churuta-837442211)
 
--My tech-skills : 
+<a href="linkedin.com/in/kateryna-churuta-837442211">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+## My tech-skills : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
