@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
 
-<a href="linkedin.com/in/kateryna-churuta-837442211">
+<a  target="blanck" href="linkedin.com/in/kateryna-churuta-837442211">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
